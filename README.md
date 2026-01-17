@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "The more we value things, the less we value ourselves. " — *Bruce Lee* 🏛️
+> "Giving back involves a certain amount of giving up." — *Colin Powell* 🏛️
 
 ## 📋 Books_to_Read.md
 
