@@ -16,15 +16,16 @@ My personal "Wall of Wisdom." This file contains beautiful quotes, motivating pa
 
 ### 📋 Books_to_Read.md
 
-The Living List! 📈
-
-- **Reading Now**: Current explorations. 👓
-- **Read**: Completed journeys. ✅
-- **Future Queue**: The ever-growing list of "Must-Reads." ⏳
+📚 Reading Progress
+``
+- ✅ Read: 10 Books
+- 📖 Currently Reading: 2 Books
+- ⏳ Yet to Start: 5 Books
+``
 
 ## 🛠️ How to Use
 
-Feel free to browse the summaries if you're looking for your next read! If you find a quote in `GoodReads.md` that resonates with you, pass it on. 🕊️
+Feel free to browse the summaries if you're looking for your next read! If you find a quote in `The_LightHouse.md` that resonates with you, pass it on. 🕊️
 
 ## 📈 Reading Status
 

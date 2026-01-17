@@ -3,14 +3,14 @@
 
 | Book | Author | Status | Remarks |
 | - | - | - | - |
-| 7 Habits of highly effective people  |   |  |  |
-| Atomic Habits  |  James Clear |  |  |
-| Awareness  |  Osho |  |  |
+| 7 Habits of highly effective people  |   | Read  |  |
+| Atomic Habits  |  James Clear | Read |  |
+| Awareness  |  Osho | Yet to Start |  |
 | Bhagavad Gita  |  - |  |  |
 | Can't Hurt Me  |  David Goggin |  |  |
 | Deep Work  |  - |  |  |
 | Discipline Is Destiny  |  - |  |  |
-| Elon Musk  |  Ashlee Vanc |  |  |
+| Elon Musk  |  Ashlee Vanc | Currently Reading |  |
 | Emotional Intelligence  |  Daniel Golema |  |  |
 | From Dreamer to Achiever  |  - |  |  |
 | Get It Done Now |  |  |  |
