@@ -10,19 +10,15 @@ Y=$(grep -c "| Yet to Start |" "$BOOKS")
 # Create the stats block
 STATS="- ✅ Read: $R Books\n- 📖 Currently Reading: $C Books\n- ⏳ Yet to Start: $Y Books"
 
-# Use awk to swap the content between the tags safely
+# Use a more precise awk script to prevent file duplication
 awk -v stats="$STATS" '
   // {
-    print $0
-    print stats
-    skip=1
+    print $0; print stats; skip=1; next
   }
   // {
     skip=0
   }
-  !skip {
-    print $0
-  }
+  !skip { print }
 ' "$README" > README.tmp && mv README.tmp "$README"
 
 echo "✅ README.md updated."
