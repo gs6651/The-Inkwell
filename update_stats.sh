@@ -1,10 +1,10 @@
 #!/bin/bash
 # Paths
 INK_BOOKS="Books_to_Read.md"
-INK_TEMPLATE=".README.template"
+INK_TEMPLATE=".assets/readme-template.txt"
 INK_README="README.md"
 
-PROF_TEMPLATE="$HOME/Documents/GitLocal/gs6651/.README.template"
+PROF_TEMPLATE="$HOME/Documents/GitLocal/gs6651/.assets/readme-template.txt"
 PROF_README="$HOME/Documents/GitLocal/gs6651/README.md"
 
 # 1. Get Stats

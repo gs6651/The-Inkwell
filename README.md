@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "The fewer the words, the better the prayer." — *Martin Luther* 🏛️
+> "The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings." — *Henry Ward Beecher* 🏛️
 
 ## 📋 Books_to_Read.md
 
