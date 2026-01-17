@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Change yourself - you are in control." — *Mahatma Gandhi* 🏛️
+> "When you reach the top of the mountain, keep climbing. " — *Zen Proverb* 🏛️
 
 ## 📋 Books_to_Read.md
 
