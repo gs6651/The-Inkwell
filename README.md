@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "The journey of a thousand miles begins with a single step." — *Lao Tzu* 🏛️
+> "We are all faced with a series of great opportunities brilliantly disguised as impossible situations. " — *Charles Swindoll* 🏛️
 
 ## 📋 Books_to_Read.md
 
