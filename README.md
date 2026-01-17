@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Happiness is pretty simple: someone to love, something to do, something to look forward to." — *Rita Mae Brown* 🏛️
+> "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday." — *Brian Tracy* 🏛️
 
 ## 📋 Books_to_Read.md
 
