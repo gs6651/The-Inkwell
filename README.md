@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "If fear is too strong, the genius is suppressed." — *Robert Kiyosaki* 🏛️
+> "The journey of a thousand miles begins with a single step." — *Lao Tzu* 🏛️
 
 ## 📋 Books_to_Read.md
 
