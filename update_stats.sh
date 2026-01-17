@@ -7,20 +7,22 @@ R=$(grep -c "| Read |" "$BOOKS")
 C=$(grep -c "| Currently Reading |" "$BOOKS")
 Y=$(grep -c "| Yet to Start |" "$BOOKS")
 
-# 2. Extract parts of README
-# Everything before the start tag
-sed -n '1,//p' "$README" > "$README.new"
+# 2. Create the Stats
+STATS="- ✅ Read: $R Books\n- 📖 Currently Reading: $C Books\n- ⏳ Yet to Start: $Y Books"
 
-# 3. Add the Stats
-echo -e "- ✅ Read: $R Books" >> "$README.new"
-echo -e "- 📖 Currently Reading: $C Books" >> "$README.new"
-echo -e "- ⏳ Yet to Start: $Y Books" >> "$README.new"
-
-# 4. Add the rest of the file
-# Everything from the end tag to the bottom
-sed -n '//,$p' "$README" >> "$README.new"
-
-# 5. Overwrite
-mv "$README.new" "$README"
-
+# 3. Rebuild the file using a Python one-liner (much cleaner for multi-line)
+python3 -c "
+import sys
+content = open('$README').read()
+start_tag = ''
+end_tag = ''
+try:
+    prefix = content.split(start_tag)[0]
+    suffix = content.split(end_tag)[1]
+    new_content = f'{prefix}{start_tag}\n$STATS\n{end_tag}{suffix}'
+    with open('$README', 'w') as f:
+        f.write(new_content)
+except IndexError:
+    print('Tags missing in README')
+"
 echo "✅ README.md updated."
