@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday." — *Brian Tracy* 🏛️
+> "Don't criticize what you can't understand. " — *Bob Dylan* 🏛️
 
 ## 📋 Books_to_Read.md
 
