@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Giving back involves a certain amount of giving up." — *Colin Powell* 🏛️
+> "The fewer the words, the better the prayer." — *Martin Luther* 🏛️
 
 ## 📋 Books_to_Read.md
 
