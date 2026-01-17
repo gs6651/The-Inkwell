@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "" — ** 🏛️
+> "Expect the best, plan for the worst, and prepare to be surprised. " — *Denis Waitley* 🏛️
 
 ## 📋 Books_to_Read.md
 
