@@ -1,8 +1,9 @@
 #!/bin/bash
-# Paths
-INK_BOOKS="Books_to_Read.md"
-INK_TEMPLATE=".assets/readme-template.txt"
-INK_README="README.md"
+# Paths - Using absolute paths or relative to the script location is safest
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+INK_BOOKS="$DIR/../Books_to_Read.md"
+INK_TEMPLATE="$DIR/readme-template.txt"
+INK_README="$DIR/../README.md"
 
 PROF_TEMPLATE="$HOME/Documents/GitLocal/gs6651/.assets/readme-template.txt"
 PROF_README="$HOME/Documents/GitLocal/gs6651/README.md"
@@ -31,12 +32,10 @@ export BOOK_STATS="- ✅ **Read:** $R Books
 
 export QUOTE_OF_DAY="> \"$QUOTE\" — *$AUTHOR* 🏛️"
 
-# 4. Generate Inkwell README
+# 4. Generate READMEs
 envsubst '$BOOK_STATS $QUOTE_OF_DAY' < "$INK_TEMPLATE" > "$INK_README"
-
-# 5. Generate Profile README
 if [ -f "$PROF_TEMPLATE" ]; then
     envsubst '$BOOK_STATS' < "$PROF_TEMPLATE" > "$PROF_README"
 fi
 
-echo "✅ All READMEs regenerated from templates."
+echo "✅ All READMEs regenerated."
