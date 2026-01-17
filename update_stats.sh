@@ -7,11 +7,22 @@ R=$(grep -c "| Read |" "$BOOKS")
 C=$(grep -c "| Currently Reading |" "$BOOKS")
 Y=$(grep -c "| Yet to Start |" "$BOOKS")
 
-# Create the text block (using \n for newlines)
+# Create the stats block
 STATS="- ✅ Read: $R Books\n- 📖 Currently Reading: $C Books\n- ⏳ Yet to Start: $Y Books"
 
-# This version uses a 'marker' to replace everything between the tags in one go
-# It is much cleaner and avoids the "previous regular expression" error
-sed -i "//,//c\\n$STATS\n" "$README"
+# Use awk to swap the content between the tags safely
+awk -v stats="$STATS" '
+  // {
+    print $0
+    print stats
+    skip=1
+  }
+  // {
+    skip=0
+  }
+  !skip {
+    print $0
+  }
+' "$README" > README.tmp && mv README.tmp "$README"
 
 echo "✅ README.md updated."
