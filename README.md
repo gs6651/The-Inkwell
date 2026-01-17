@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Don't criticize what you can't understand. " — *Bob Dylan* 🏛️
+> "If fear is too strong, the genius is suppressed." — *Robert Kiyosaki* 🏛️
 
 ## 📋 Books_to_Read.md
 
