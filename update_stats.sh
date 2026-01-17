@@ -1,4 +1,3 @@
-
 #!/bin/bash
 BOOKS="Books_to_Read.md"
 README="README.md"
@@ -11,10 +10,10 @@ Y=$(grep -c "| Yet to Start |" "$BOOKS")
 # Create the text block
 STATS="- ✅ Read: $R Books\n- 📖 Currently Reading: $C Books\n- ⏳ Yet to Start: $Y Books"
 
-# Remove everything between tags (safer syntax)
-sed -i '//,// { //!d; }' "$README"
+# Robust deletion between tags
+sed -i '//,// { //! { //!d; } }' "$README"
 
-# Insert the new stats after the start tag
+# Insert the new stats
 sed -i "//a $STATS" "$README"
 
 echo "✅ README.md updated."
