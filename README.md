@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Wise people, even though all laws were abolished, would still lead the same life." — *Aristophanes* 🏛️
+> "The single most powerful asset we all have is our mind." — *Robert Kiyosaki* 🏛️
 
 ## 📋 Books_to_Read.md
 
