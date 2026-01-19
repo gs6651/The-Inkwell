@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "The single most powerful asset we all have is our mind." — *Robert Kiyosaki* 🏛️
+> "Do not fight with pigs - you will be smeared in mud but the pig will like it." — *George Bernard Shaw* 🏛️
 
 ## 📋 Books_to_Read.md
 
