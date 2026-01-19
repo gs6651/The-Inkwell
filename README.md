@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "We are all faced with a series of great opportunities brilliantly disguised as impossible situations. " — *Charles Swindoll* 🏛️
+> "Wise people, even though all laws were abolished, would still lead the same life." — *Aristophanes* 🏛️
 
 ## 📋 Books_to_Read.md
 
