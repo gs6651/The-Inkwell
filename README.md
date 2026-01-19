@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Do not fight with pigs - you will be smeared in mud but the pig will like it." — *George Bernard Shaw* 🏛️
+> "A Quitter never wins - and - a Winner never quits." — *Napoleon Hill* 🏛️
 
 ## 📋 Books_to_Read.md
 
