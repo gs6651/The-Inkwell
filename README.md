@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "A Quitter never wins - and - a Winner never quits." — *Napoleon Hill* 🏛️
+> "The wise accomplish all that they want without arousing the envy or scorn of others." — *Ming-Dao Deng* 🏛️
 
 ## 📋 Books_to_Read.md
 
