@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "The dream is free, but the hustle is sold separately." — *Steve Harvey* ???
+> "The attempt to escape from pain, is what creates more pain." — *Gabor Mate* ???
 
 ## ğŸ“‹ Books_to_Read.md
 
