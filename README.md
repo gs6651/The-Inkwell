@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "The secret of happiness is not in doing what you like but in liking what you have to do." — *Sathya Sai Baba* ???
+> "The dream is free, but the hustle is sold separately." — *Steve Harvey* ???
 
 ## ğŸ“‹ Books_to_Read.md
 
