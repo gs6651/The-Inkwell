@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "You are never too old to set another goal or to dream a new dream." — *Les Brown* ???
+> "Fear is your worst enemy. Risk is your best friend." — *Gurbaksh Chahal* ???
 
 ## ğŸ“‹ Books_to_Read.md
 
