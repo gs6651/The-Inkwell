@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Comedy = tragedy + time." — *Carol Burnett* ???
+> "You are never too old to set another goal or to dream a new dream." — *Les Brown* ???
 
 ## ðŸ“‹ Books_to_Read.md
 
