@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "The future doesn't belong to the faint-hearted; it belongs to the brave." — *Ronald Reagan* ???
+> "You can't tell big dreams to small minded people." — *Steve Harvey* ???
 
 ## ğŸ“‹ Books_to_Read.md
 
