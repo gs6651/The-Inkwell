@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "The attempt to escape from pain, is what creates more pain." — *Gabor Mate* ???
+> "Life belongs to the living, and he who lives must be prepared for changes." — *Johann Wolfgang von Goethe* ???
 
 ## ðŸ“‹ Books_to_Read.md
 
