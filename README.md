@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "You can't tell big dreams to small minded people." — *Steve Harvey* ???
+> "Comedy = tragedy + time." — *Carol Burnett* ???
 
 ## ğŸ“‹ Books_to_Read.md
 
