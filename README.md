@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Life belongs to the living, and he who lives must be prepared for changes." — *Johann Wolfgang von Goethe* ???
+> "The future doesn't belong to the faint-hearted; it belongs to the brave." — *Ronald Reagan* ???
 
 ## ðŸ“‹ Books_to_Read.md
 
