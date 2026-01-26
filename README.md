@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Fear is your worst enemy. Risk is your best friend." — *Gurbaksh Chahal* ???
+> "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver." — *Ayn Rand* ???
 
 ## ðŸ“‹ Books_to_Read.md
 
