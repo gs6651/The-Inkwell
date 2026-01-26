@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver." — *Ayn Rand* ???
+> "Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do." — *Nelson Mandela* ???
 
 ## ðŸ“‹ Books_to_Read.md
 
