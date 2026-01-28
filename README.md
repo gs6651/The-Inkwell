@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do." — *Nelson Mandela* ???
+> "You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?" — *Seneca* ???
 
 ## ðŸ“‹ Books_to_Read.md
 
