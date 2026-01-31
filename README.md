@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "We're kept from our goal not by obstacles, but by a clear path to a lesser goal." — *Bhagavad Gita* ???
+> "Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit." — *Robin Sharma* ???
 
 ## ðŸ“‹ Books_to_Read.md
 
