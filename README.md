@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Words are clothes that thoughts wear" — *Samuel Butler* ???
+> "We're kept from our goal not by obstacles, but by a clear path to a lesser goal." — *Bhagavad Gita* ???
 
 ## ðŸ“‹ Books_to_Read.md
 
