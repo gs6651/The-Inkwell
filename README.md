@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-> "Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit." — *Robin Sharma* ???
+> "I don't walk away from things that I think are unfinished." — *Arnold Schwarzenegger* ???
 
 ## ðŸ“‹ Books_to_Read.md
 
